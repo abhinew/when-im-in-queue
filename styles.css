@@ -1,0 +1,32 @@
+body { 
+    background-color: rgb(235, 173, 132); 
+}
+#canvas { 
+    background-color:rgb(235, 173, 132); 
+    border: 1px solid black;
+    width:800px; 
+    margin:0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+
+}
+/* 
+.box {
+    width: 100px;
+    height: 10px;
+    background: #8e2222;
+    padding: 8px;
+    display: inline-block;
+    place-content: center;
+   
+}
+
+
+#teddy.pink {
+    border: 1px solid red;
+}
+
+ */

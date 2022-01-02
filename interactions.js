@@ -4,7 +4,6 @@ const ctx = canvas.getContext('2d');
 const canvasWidth = canvas.width;
 const canvasHeight = canvas.height;
 
-
 const cardName = 'teddy';
 const cardWidth = 50;
 const cardHeight = 72;
